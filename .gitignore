@@ -1,0 +1,60 @@
+# .gitignore for Python Streamlit project (Windows-friendly)
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.env
+.venv/
+
+# Editor and IDE folders
+.vscode/
+.idea/
+.history/
+.ropeproject/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Logs, temporary files
+*.log
+*.tmp
+*.swp
+
+# Misc
+*.sqlite3
+*.sqlite3-journal
