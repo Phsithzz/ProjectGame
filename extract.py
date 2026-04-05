@@ -30,7 +30,7 @@ import sys
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-OUTPUT_CSV   = "squat_data_bad_back.csv"
+OUTPUT_CSV   = "squat_data_bad_heel.csv"
 IMAGE_EXTS   = {".jpg", ".jpeg", ".png", ".bmp", ".webp"}
 VIDEO_EXTS   = {".mp4", ".avi", ".mov", ".mkv", ".webm"}
 

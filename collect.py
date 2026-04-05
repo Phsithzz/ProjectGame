@@ -26,7 +26,7 @@ import time
 
 # ─── Config ───────────────────────────────────────────────────────────────────
 
-OUTPUT_CSV = "squat_data.csv"
+OUTPUT_CSV = "squat_data_good.csv"
 VALID_LABELS = ["good", "bad_heel", "bad_back"]
 
 # MediaPipe landmark ชื่อ (ใช้สร้าง header ของ CSV)
